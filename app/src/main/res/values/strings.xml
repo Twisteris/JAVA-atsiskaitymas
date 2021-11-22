@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplikacija</string>
+    <string name="haveAccount">Already have account?</string>
+    <string name="register">Register</string>
+    <string name="dontHaveAccount">Don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="title">Title</string>
+    <string name="completed">completed</string>
+    <string-array name="items">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+    <string name="HOST">example:3001</string>
+</resources>
